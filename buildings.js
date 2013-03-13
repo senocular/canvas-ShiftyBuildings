@@ -385,8 +385,8 @@ Texture.prototype.draw = function(a,b,c,d,x,y){
 	ctx.setTransform(a,b,c,d,x,y);
 	ctx.drawImage(this.image, 
 		this.dimensions.x, this.dimensions.y, this.dimensions.w, this.dimensions.h,
-		0, 0, this.dimensions.w, this.dimensions.h)
-}
+		0, 0, this.dimensions.w, this.dimensions.h);
+};
 
 /**
  * requestAnimationFrame polyfill b yErik Möller
