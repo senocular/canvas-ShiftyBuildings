@@ -389,7 +389,7 @@ Texture.prototype.draw = function(a,b,c,d,x,y){
 };
 
 /**
- * requestAnimationFrame polyfill b yErik Möller
+ * requestAnimationFrame polyfill by Erik Möller
  * http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
  */
 (function() {
