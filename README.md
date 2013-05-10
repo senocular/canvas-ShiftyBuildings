@@ -7,4 +7,4 @@ Because there's no perspective, it can look a little... not right. But it can be
 **View:**
 http://senocular.github.com/ShiftyBuildings/buildings.html
 
-:passport_control: Tested only in Chrome 25, Win 7
+:passport_control: Tested on Chrome 25, Win 7
